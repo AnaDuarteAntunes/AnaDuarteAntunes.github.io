@@ -82,4 +82,3 @@ Mi objetivo es seguir aprendiendo y mejorar mis habilidades en:
 Gracias por visitar mi proyecto!  
 Cualquier sugerencia o consejo será bienvenido, ya que sigo aprendiendo y mejorando día a día 🚀
 
----
