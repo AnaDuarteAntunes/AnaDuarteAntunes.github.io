@@ -359,7 +359,7 @@ PROJECTS SECTION
 @media (max-width: 968px) {
     .hero-content,
     .about-content {
-        grid-template-columns: 1fr;
+        flex-direction: column;
         gap: 40px;
     }
 
@@ -371,7 +371,9 @@ PROJECTS SECTION
         font-size: 2rem;
     }
 
-    .about-text h2,
+    .about-text h2 {
+        font-size: 2.5rem;
+    }
     .skills h2,
     .projects h2,
     .contact h2 {
@@ -411,6 +413,23 @@ PROJECTS SECTION
 
     .hero-text h2 {
         font-size: 1.5rem;
+    }
+
+    .about {
+        padding: 60px 0;
+    }
+
+    .about-content {
+        padding: 0 20px;
+    }
+
+    .about-text h2 {
+        font-size: 2rem;
+        margin-bottom: 20px;
+    }
+
+    .about-text p {
+        font-size: 1rem;
     }
 
     .skills-grid {
