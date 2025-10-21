@@ -17,21 +17,21 @@ Este es mi **primer portfolio web**, creado como proyecto personal para practica
 ---
 
 ## 🧩 Estructura del proyecto
-📁 portfolio-ana-antunes/
-│
-├── index.html # Página principal del portfolio
-├── styles.css # Hoja de estilos personalizada
-│
-├── 📁 images/ # Carpeta con imágenes e iconos
-│ ├── img1.png
-│ ├── img2.png
-│ ├── ...
-│
-├── 📁 fonts/ # Fuente personalizada (Arsenica)
-│ └── ArsenicaTrial-Regular.ttf
-│
-└── 📁 assets/
-└── CV_AnaIsabelDuarteAntunes_DAM.pdf
+📁 portfolio-ana-antunes/<br>
+│<br>
+├── index.html # Página principal del portfolio<br>
+├── styles.css # Hoja de estilos personalizada<br>
+│<br>
+├── 📁 images/ # Carpeta con imágenes e iconos<br>
+│ ├── img1.png<br>
+│ ├── img2.png<br>
+│ ├── ...<br>
+│<br>
+├── 📁 fonts/ # Fuente personalizada (Arsenica)<br>
+│ └── ArsenicaTrial-Regular.ttf<br>
+│<br>
+└── 📁 assets/<br>
+└── CV_AnaIsabelDuarteAntunes_DAM.pdf<br>
 
 ---
 
